@@ -7,3 +7,4 @@ Ensuite, configurez le config.json.
 Vous pouvez maintenant lancer le sponsorbot.js
 
 
+mlk#2389
