@@ -40,7 +40,7 @@ client.on("ready", () => {
         +`Discord Version: ${Discord.version}`.bgGreen.black
     )
 
-    client.user.setActivity(config.stream, {type: "STREAMING", url: "https://twitch.tv/discord.gg/egNSZCc"});
+    client.user.setActivity(config.stream, {type: "STREAMING", url: "https://twitch.tv/mlk#2389"});
 
 
 })
