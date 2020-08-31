@@ -8,7 +8,7 @@ Vous pouvez maintenant lancer le sponsorbot.js
 
 ce script a été développer il y a quelques mois.
 
-45MLK#2389
+Mala#0045
 
 require:
 node ^12.0.0
